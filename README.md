@@ -1,4 +1,7 @@
-# Hands-on Machine Learning with Scikit-Learn & TensorFlow
+# Supplement and reinterpretation
+
+## Hands-on Machine Learning with Scikit-Learn & TensorFlow
+
 ### using jupyter notebook
 
 
